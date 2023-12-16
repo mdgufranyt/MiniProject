@@ -1,0 +1,96 @@
+.yourCart {
+    width: 720px;
+    height: 400px;
+
+    margin: auto 10vw;
+}
+
+.itemdetail {
+    display: flex;
+    flex-direction: row;
+    padding-left: 15px;
+    margin-top: 10px;
+    background: rgba(83, 82, 82, 0.432);
+    border: 1px solid rgb(71, 69, 69);
+    color: white;
+}
+
+.priceDetail {
+    width: 300px;
+    height: 300px;
+
+    background: rgba(83, 82, 82, 0.432);
+}
+
+.FullCart {
+    display: flex;
+    flex-direction: row;
+}
+
+.EmptyMsg {
+    padding-top: 150px;
+    padding-left: 15vw;
+    color: white;
+}
+
+.itemdetail {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding: 24px;
+}
+
+.itemdetail img {
+    margin-right: 150px;
+    width: 150px;
+
+}
+
+.Items img {
+    width: 150px;
+}
+
+.iteminfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.delstatus {
+    padding-top: 45px;
+}
+
+.Cart_items {
+    display: flex;
+    flex-direction: row;
+}
+
+.WDiNrH {
+    display: flex;
+}
+
+._3dsJAO {
+    margin-top: 13px;
+    margin-left: 20px;
+    background-color: white;
+    color: green;
+    cursor: pointer;
+}
+
+._1uc2IE {
+    margin-left: 40px;
+}
+
+._253qQJ {
+    width: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+._3dY_ZR {
+    display: flex;
+    margin-top: 20px;
+}
+
+.priceDetailItem .h1 {
+    margin: 20px;
+}
